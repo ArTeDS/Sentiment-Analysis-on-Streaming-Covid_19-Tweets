@@ -2,14 +2,14 @@
 
 **Semester project for my MSc in Data Science, Big Data course**  
 
-
-### Contributors  
-Aris Terzidis and Nick Fritzalas  
-
-<br>
-
 ![img1](https://user-images.githubusercontent.com/72740595/150700030-5facc46a-fb92-4c28-acb4-efe04b0171bd.jpg)  
 
+
+### Contributors  
+
+[Aris Terzidis](https://github.com/ArTeDS) and [Nick Fritzalas](https://github.com/NickFritzalas)
+
+<br>
 
 ## Motivation  
 
@@ -46,7 +46,9 @@ What is the general public consensus towards the pandemic and related news aroun
   with SPARK
   - An ML model will be trained on a labeled dataset after experimentation for creating a high
   performing algorithm
-  - The pretrained model will be deployed in combination with SPARK, on real time data
+  - The pretrained model will be deployed in combination with SPARK, on real time data  
+
+![img3](https://user-images.githubusercontent.com/72740595/150700369-a8322021-56c6-49c9-a4dd-e9792f0ea9b3.png)  
 
 ## Tools-Libraries  
   - Twitter API
